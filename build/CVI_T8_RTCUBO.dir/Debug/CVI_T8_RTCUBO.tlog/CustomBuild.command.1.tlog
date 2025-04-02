@@ -1,0 +1,10 @@
+^C:\USERS\DAVID\DESKTOP\UNIVERSIDAD\8VOSEMESTRE\VISUALES\CVI_T8_RTCUBO\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/DAVID/Desktop/Universidad/8voSemestre/VIsuales/CVI_T8_RTCubo -BC:/Users/DAVID/Desktop/Universidad/8voSemestre/VIsuales/CVI_T8_RTCubo/build --check-stamp-file C:/Users/DAVID/Desktop/Universidad/8voSemestre/VIsuales/CVI_T8_RTCubo/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

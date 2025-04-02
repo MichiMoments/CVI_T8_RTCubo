@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\DAVID\Desktop\Universidad\8voSemestre\VIsuales\CVI_T8_RTCubo\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\DAVID\Desktop\Universidad\8voSemestre\VIsuales\CVI_T8_RTCubo\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2F2CC330-D76E-32AC-9914-6A7D7ABB409D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

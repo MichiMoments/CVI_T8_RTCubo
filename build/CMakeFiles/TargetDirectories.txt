@@ -1,0 +1,3 @@
+C:/Users/DAVID/Desktop/Universidad/8voSemestre/VIsuales/CVI_T8_RTCubo/build/CMakeFiles/CVI_T8_RTCUBO.dir
+C:/Users/DAVID/Desktop/Universidad/8voSemestre/VIsuales/CVI_T8_RTCubo/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/DAVID/Desktop/Universidad/8voSemestre/VIsuales/CVI_T8_RTCubo/build/CMakeFiles/ZERO_CHECK.dir
